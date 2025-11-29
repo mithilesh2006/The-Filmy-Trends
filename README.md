@@ -68,6 +68,7 @@ Analyzed average budgets by genre and industry.
 Compared ratings and revenues across time periods.
 
 Created dashboard visualizations for insights.
+https://data-visuvalization-1.onrender.com
 
 
 Tools & Libraries Used
@@ -105,3 +106,6 @@ Project by:
  P.N.V. Navadeep ,
  
  R. Mithilesh 
+
+
+dashboard : " https://data-visuvalization-1.onrender.com"
